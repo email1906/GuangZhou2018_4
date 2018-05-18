@@ -8,6 +8,7 @@ import 'element-ui/lib/theme-chalk/index.css'
 import 'normalize.css'
 import axios from 'axios'
 import './less/index.less'
+import './css/style.css'
 
 // 2 导入自己写的模块
 import router from './router' //路由实例
